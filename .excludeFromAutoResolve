@@ -1,1 +1,10 @@
+*.cls
+*.cls-meta.xml
+force-app/main/default/classes/*
 
+*.trigger
+*.trigger-meta.xml
+force-app/main/default/triggers/*
+
+*.layout-meta.xml
+force-app/main/default/layouts/*
