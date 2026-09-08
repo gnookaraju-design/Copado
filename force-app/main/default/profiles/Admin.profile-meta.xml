@@ -28,6 +28,11 @@
         <field>Apex_execution__c.Apex_4__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Apex_execution__c.Perm__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <loginHours n1:nil="true" />
     <loginIpRanges>
         <description>All</description>
